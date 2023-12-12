@@ -2,6 +2,6 @@
 Sixstars Mini Project
 Author Mild
  * NuGet
-VideoLAN.LibVLC.Windows
-LibVLCSharp
-LibVLCSharp.WinForms
+1. VideoLAN.LibVLC.Windows
+2. LibVLCSharp
+3. LibVLCSharp.WinForms
